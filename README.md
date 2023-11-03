@@ -1,2 +1,7 @@
-# barbeariasantiago
-Aplicação feita para participação no processo seletivo de estagiário em soluções digitais.
+# Barbearia Santiago
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
