@@ -1,7 +1,11 @@
 # Barbearia Santiago
 
-A new Flutter project.
+Aplicação feita para participação no processo seletivo de estagiário em soluções digitais.
 
-## Getting Started
+Fiz esse app com base em tutoriais na internet, o processo seletivo consistia em:
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+* Desenvolver um app usando o Flutterflow onde poderíamos seguir tutoriais na internet sem problemas.
+* Integrar esse app com o banco de dados Firebase, do Google.
+* Criar algum gráfico ou outro elemento no PowerBI utilizando os dados da base de dados.
+
+
